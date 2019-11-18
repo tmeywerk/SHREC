@@ -1,0 +1,4 @@
+This is the SMT(LRA) learner SHREC, implementing SHREC1, SHREC2 and re-implementing INCAL.
+For a quick start, execute "python3 bench.py path/to/smt/file ex seed", where path/to/smt/file is the path to a file in the smtlib format, ex is the number of examples you want to sample and seed is the random seed used for sampling.
+To run all benchmarks at once, use the benchmarks.sh script.
+Further documentation coming soon...

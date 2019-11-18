@@ -1,0 +1,8 @@
+This folder contains synthetically generated benchmarks. Filenames are decoded as follows:
+synthetic_b_r_k_l_h_n.smt2
+b: #boolean variables
+r: #number real variables
+k: #clauses
+l: #literals per clause
+h: #halfspaces per clause
+n: number of the benchmark
